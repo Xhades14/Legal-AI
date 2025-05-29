@@ -88,9 +88,6 @@ This project implements a multi-stage pipeline for legal document analysis that 
 git clone <repository-url>
 cd NLP_Legal
 
-# Install dependencies
-pip install -r requirements.txt
-
 # Setup Neo4j database
 # Setup ChromaDB
 ```

@@ -1,4 +1,4 @@
-# Legal Document Retrieval and Graph Analysis System
+# Legal AI Research Assistant for Commercial Courts
 
 A comprehensive system for processing Indian legal documents, building knowledge graphs, and implementing semantic retrieval with graph-based reranking for legal case analysis.
 

@@ -1,10 +1,10 @@
 # Legal AI Research Assistant for Commercial Courts
 
-A comprehensive system for processing Indian legal documents, building knowledge graphs, and implementing semantic retrieval with graph-based reranking for legal case analysis.
+A comprehensive system for processing Indian legal documents, building knowledge graphs, and implementing semantic retrieval with graph-based reranking (GraphRAG) for legal case analysis.
 
 ## Overview
 
-This project implements a multi-stage pipeline for legal document analysis that combines semantic embeddings, graph-based relationships, and LLM-powered summarization to enable intelligent legal case retrieval and citation analysis.
+This project implements a multi-stage pipeline for legal document analysis that combines semantic embeddings, graph-based RAG, and LLM-powered summarization to enable intelligent legal case retrieval and citation analysis.
 
 ## System Architecture
 
